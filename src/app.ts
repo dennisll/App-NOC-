@@ -2,9 +2,10 @@ import { ServerApp } from "./presentation/server";
 
 
 (async ()=>{
-    ServerApp.start();
+    main();
 })()
 
 function main (){
     ServerApp.start();
+   //console.log(process.env.PORT);
 }
