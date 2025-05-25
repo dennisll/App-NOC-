@@ -9,3 +9,8 @@ dist/
 logs/
 
 .env
+
+/mongo
+/postgres
+/mongo-test
+/postgres-test
